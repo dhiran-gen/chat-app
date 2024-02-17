@@ -87,7 +87,7 @@ chat-app/
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dhiran-gen/chat-app
    cd chat-app
    ```
 
